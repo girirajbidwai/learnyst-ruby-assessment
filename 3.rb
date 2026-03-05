@@ -19,7 +19,6 @@ class Employee
     @name = name
   end
 end
-
 person = Person.new("Alice")
 person.greet
 
